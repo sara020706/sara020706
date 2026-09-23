@@ -1,16 +1,219 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sara020706/sara020706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,50:111827,100:1e3a8a&text=PARTHASARATHY&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=18"/>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=Building+AI-powered+products+%F0%9F%A4%96;Turning+ideas+into+working+systems+%F0%9F%9A%80;Full-Stack+%2B+AI+%2B+Cloud;Always+learning.+Always+building." />
+
+<br/><br/>
+
+<a href="https://e-parthasarathy.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111827?style=for-the-badge&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+# 👋 Hey, I'm Parthasarathy
+
+> **AI & Data Science student who enjoys turning complex problems into useful software.**
+
+I'm interested in the intersection of **Artificial Intelligence, Software Engineering and Product Development**.
+
+Currently exploring:
+
+```text
+AI / ML
+   ↓
+Generative AI & LLMs
+   ↓
+Full-Stack Engineering
+   ↓
+Cloud & Distributed Systems
+   ↓
+Products that solve real problems
+```
+
+---
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
+
+</div>
+
+---
+
+# ⚡ What I Build
+
+<div align="center">
+
+| 🤖 AI Systems | 🌐 Full-Stack | 🚀 Products |
+|:---:|:---:|:---:|
+| ML / DL | React | SaaS |
+| NLP | TypeScript | Automation |
+| Computer Vision | Node.js | Developer Tools |
+| GenAI / LLMs | FastAPI | Real-world Solutions |
+
+</div>
+
+---
+
+# 🛠️ Tech Universe
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" />
+</p>
+
+### Data & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+</p>
+
+<p>
+
+`Python` `Pandas` `NumPy` `Scikit-Learn` `NLP` `Computer Vision`  
+`Generative AI` `LLMs` `RAG` `MLOps`
+
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode,figma" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🚌 Transportix
+
+> Real-time transport management and tracking platform.
+
+**React + TypeScript + FastAPI + PostgreSQL + GraphQL + WebSockets**
+
+Features include:
+
+- 🛰️ Live vehicle tracking
+- 🗺️ Route visualization
+- 📊 Transport analytics
+- 👨‍✈️ Driver management
+- 🚨 Incident management
+
+---
+
+### 🧠 CodeNuma
+
+> An interactive AI-powered compiler visualization platform designed to make code execution easier to understand.
+
+**React + TypeScript + Python + AI**
+
+---
+
+### 📊 VaniAI
+
+> Student performance and placement prediction system.
+
+**Machine Learning + FastAPI + PostgreSQL + MLOps**
+
+---
+
+### 🔐 ECDAT
+
+> Enterprise Cryptographic Discovery & Analysis Tool.
+
+Designed to analyze enterprise codebases and discover cryptographic usage through source-code analysis.
+
+**React + TypeScript + FastAPI + PostgreSQL + Tree-sitter + Docker**
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=ffffff"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=ffffff"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=60A5FA&fire=F97316&currStreakLabel=60A5FA"/>
+
+</div>
+
+---
+
+# 🐍 My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🌐 Find Me
+
+<div align="center">
+
+<a href="https://e-parthasarathy.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Currently building.
+
+### ⚡ Currently learning.
+
+### 🚀 Eventually shipping.
+
+<br/>
+
+**"We don't build software. We solve problems worth solving."**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e3a8a,50:111827,100:0f0f0f"/>
+
+</div>
