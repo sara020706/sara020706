@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111827?style=for-the-badge&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/">
+<a href="www.linkedin.com/in/parthasarthy-e-48019a327">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -46,7 +46,7 @@ Products that solve real problems
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sara020706&theme=github_dark"/>
 
 </div>
 
@@ -156,9 +156,9 @@ Designed to analyze enterprise codebases and discover cryptographic usage throug
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=ffffff"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sara020706&show_icons=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=ffffff"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=ffffff"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara020706&layout=compact&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=ffffff"/>
 
 </div>
 
@@ -168,7 +168,7 @@ Designed to analyze enterprise codebases and discover cryptographic usage throug
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=60A5FA&fire=F97316&currStreakLabel=60A5FA"/>
+<img src="https://streak-stats.demolab.com?user=sara020706&theme=dark&hide_border=true&background=0D1117&ring=60A5FA&fire=F97316&currStreakLabel=60A5FA"/>
 
 </div>
 
