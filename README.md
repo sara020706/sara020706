@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,50:111827,100:1e3a8a&text=PARTHASARATHY&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=18"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=PARTHASARATHY&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Full-Stack+Developer;Building+AI-Powered+Products;Turning+Ideas+Into+Working+Systems" alt="Typing SVG" />
+
+</div>
+<div align="center">
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=Building+AI-powered+products+%F0%9F%A4%96;Turning+ideas+into+working+systems+%F0%9F%9A%80;Full-Stack+%2B+AI+%2B+Cloud;Always+learning.+Always+building." />
-
-<br/><br/>
-
 <a href="https://e-parthasarathy.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111827?style=for-the-badge&logoColor=white"/>
 </a>
